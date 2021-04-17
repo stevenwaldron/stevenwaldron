@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 welcome to my page! my name is steven waldron. Im a software engineer.
 
-<!--
-**stevenwaldron/stevenwaldron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am studying web development & computer science at Lambda School and will be graduating in the spring of 2021.
+I have interned this past year at Project Reclass as a front end software engineer and helped develp their webpage.
+i am currently looking for a fullstack or back end position.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... a new app
+- 🌱 I’m currently learning ... React Native
+- 🤔 I’m looking for help with ... mock interviews
+- 💬 Ask me about ... lambda school
+- 📫 How to reach me: ... stevenwaldron7777@gmail.com
+
 -->
