@@ -10,5 +10,3 @@ i am currently looking for a fullstack or back end position.
 - 🤔 I’m looking for help with ... mock interviews
 - 💬 Ask me about ... BloomTech
 - 📫 How to reach me: ... stevenwaldron7777@gmail.com
-
--->
